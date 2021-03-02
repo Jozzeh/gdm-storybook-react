@@ -1,3 +1,8 @@
+# Example project shown @ GDM Artevelde guest college
+
+Made with create-react-app and storybook.   
+JUST AN EXAMPLE  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
