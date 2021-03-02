@@ -10,7 +10,9 @@
 
 # production
 /build
-/dist
+/public
+/src
+/.storybook
 
 # misc
 .DS_Store
